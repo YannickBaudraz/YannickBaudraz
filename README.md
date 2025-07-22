@@ -6,7 +6,7 @@ This GitHub profile features a selection of personal and academic projects that 
 
 Here’s a list of the projects I’ve built or experimented with, both during my studies and in personal time:
 
-👉 [My apps list on GitHub](https://github.com/YannickBaudraz/lists/my-apps)
+👉 [My apps list on GitHub](https://github.com/stars/YannickBaudraz/lists/my-apps)
 
 Feel free to explore — each project includes a short README and highlights the main technologies used.
 

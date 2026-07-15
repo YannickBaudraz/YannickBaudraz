@@ -1,10 +1,6 @@
 # 👋 Hi there!
 
-This GitHub profile features some of my personal and academic projects.
-
----
-
-### 📫 Contact
+## 📫 Contact
 
 - 📧 yannickbaudrazpro@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yannick-baudraz)
